@@ -1,11 +1,8 @@
-<h2 align="left">Hello there👋!</h2>
+<h2 align="left">Hello</h2>
 
-# 📊 GitHub Stats:
 <p align="center">
-  <img align="center" src="https://nirzak-streak-stats.vercel.app/?user=niavtis&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
+  <img align="center" [![GitHub Streak](https://streak-stats.demolab.com?user=niavtis&theme=github-dark&hide_border=true)](https://git.io/streak-stats) />
    <br/>
-
-  [![GitHub Streak](https://streak-stats.demolab.com?user=niavtis&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 </p>
 <br clear="left"/>
 <p align="center">
